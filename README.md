@@ -1,6 +1,6 @@
 # ICU Early-Warning AI
 
-## Research Project
+## Project
 
 An AI-assisted clinical early-warning system designed to analyze
 longitudinal ICU patient data and estimate the risk of clinical
